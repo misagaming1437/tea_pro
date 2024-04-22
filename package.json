@@ -7,8 +7,6 @@
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "author": "",
-    "license": "ISC",
     "dependencies": {
         "@acomegan/teajoss": "^1.1.4",
         "@ale14/stake141414": "^1.1.4",
@@ -61,5 +59,21 @@
         "yehe2tea": "^1.1.4",
         "yeruntea": "^1.1.4",
         "yosuaveitch": "^1.1.4"
+    },
+    "keywords": [
+        "tea",
+        "testnet",
+        "blockchain",
+        "POW"
+    ],
+    "author": "misa",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/misagaming1437/tea_pro/issues"
+    },
+    "homepage": "https://github.com/misagaming1437/tea_pro#readme",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/misagaming1437/tea_pro.git"
     }
 }
