@@ -1,4 +1,6 @@
-import pl from "pl-hello-minotaur";
-
+import minotaur from "pl-hello-minotaur";
+import owenfly from "owenfly";
 console.log("hello evryone");
-pl.name = "tea_pro";
+minotaur.name = "tea_pro";
+owenfly.log("hello dalek");
+console.log(pl.name);
